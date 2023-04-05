@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MhamedBendenia
 - 👀 I’m interested in Python world
-- 🌱 I’m currently learning TDD
 - 💞️ I’m looking to collaborate on python projects as a fullstack
 - 📫 mh.bendenia@gmail.com
 
